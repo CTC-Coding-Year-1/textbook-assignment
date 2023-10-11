@@ -7,6 +7,8 @@ assignees: ''
 
 ---
 
-## Mark as *closed* when finished
+# Complete Assignment
 
-Close this issue once you have made your final adjustments to your assignment and it is read to receive a grade.
+## Mark this issue as *closed* when finished
+
+Close this issue once you have made your final adjustments to your assignment and it is ready to receive a grade.
